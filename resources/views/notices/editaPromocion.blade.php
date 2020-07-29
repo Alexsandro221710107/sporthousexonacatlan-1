@@ -17,20 +17,20 @@
       <form class="form-horizontal form-label-left input_mask" action = "{{route('actualizaPromocion')}}" method="POST" enctype='multipart/form-data'>
         {{csrf_field()}}
         <div class="form-group">
-          <label class="control-label col-md-3 col-sm-3 col-xs-12">No Promocion: </label>
+          <label class="control-label col-md-3 col-sm-3 col-xs-12">No Promoción: </label>
             <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
               <input type="text" class="form-control has-feedback-left" id='idprom' name='idprom' value="{{$promociones->idprom}}">
               <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>
             </div>
         </div>
         <div class="form-group">
-          <label class="control-label col-md-3 col-sm-3 col-xs-12">Promocion: </label>
+          <label class="control-label col-md-3 col-sm-3 col-xs-12">Promoción: </label>
             <div class="col-md-9 col-sm-9 col-xs-12 form-group has-feedback">
               <input type="file" name="promocion" id="promocion">
             </div>
         </div>
         <div class="form-group">
-          <label class="control-label col-md-3 col-sm-3 col-xs-12">Descripcion: </label>
+          <label class="control-label col-md-3 col-sm-3 col-xs-12">Descripción: </label>
             <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
               <input type="text" class="form-control has-feedback-left" id='descripcionprom' name='descripcionprom' value="{{$promociones->descripcionprom}}">
               <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>

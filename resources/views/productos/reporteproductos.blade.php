@@ -23,7 +23,7 @@ else{
           <tr>
             <th>No Producto</th>
             <th>Nombre</th>
-            <th>Descripcion</th>
+            <th>Descripción</th>
             <th>Costo</th>
             <th>Foto</th>
             <th></th>

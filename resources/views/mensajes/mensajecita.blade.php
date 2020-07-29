@@ -29,7 +29,7 @@
                                              </tr>
                                              <tr>
                                                  <td class="m_7723093387119097625padless" style="color:#3f4652;line-height:23px;padding-left:28px;padding-right:28px;font-size:15px;font-family:'Open Sans',sans-serif;font-weight:100;text-align:justify"><span style="font-family:'Open Sans',sans-serif">
-                                                    ¡Hola! Tienes una Nueva Cita, los datos de la persona que solicito la cita son los siguientes:
+                                                    ¡Hola! Tienes una Nueva Cita, los datos de la persona que solicitó la cita son los siguientes:
                                                      <br>
                                                      Nombre:<span style="font-weight:bold">{{$datos['nombre']}}</span>
                                                      <br>
@@ -39,11 +39,11 @@
                                                      <br>
                                                      El asunto a tratar es el siguiente:<span style="font-weight:bold">{{$datos['mensaje']}}</span>
                                                      <br>
-                                                     El correo electronico de esta persona es:<span style="font-weight:bold">{{$datos['email']}}</span>
+                                                     El correo electrónico de esta persona es:<span style="font-weight:bold">{{$datos['email']}}</span>
                                                      <br>
                                                      El numero telefónico es:<span style="font-weight:bold">{{$datos['telefonocita']}}</span>
                                                     <br>
-                                                     Para confirmar la cita, solo envía un correo electrónico a la persona que solicitó la cita, Para regresar al sitio de SportHouseXonacatlan da clíc en el siguiente botón.
+                                                     Para confirmar la cita, solo envía un correo electrónico a la persona que solicitó la cita, Para regresar al sitio de SportHouse Xonacatlán da clíc en el siguiente botón.
                                                  </span></td>
                                              </tr>
                                              <tr>

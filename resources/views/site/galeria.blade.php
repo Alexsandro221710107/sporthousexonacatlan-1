@@ -7,11 +7,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2>Galeria</h2>
+                    <h2>Galería</h2>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index">Inicio</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Galeria</li>
+                            <li class="breadcrumb-item active" aria-current="page">Galería</li>
                         </ol>
                     </nav>
                 </div>
@@ -70,11 +70,11 @@
     </div>
     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Anterior</span>
     </a>
     <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Siguiente</span>
     </a>
   </div>
 </section>
@@ -91,7 +91,7 @@
                 <!-- About Button Group -->
                 <div class="col-12">
                     <div class="about-btn-group mt-50">
-                        <a href="#" class="btn fitness-btn mr-3">Obten tu membresia</a>
+                        <a href="#" class="btn fitness-btn mr-3">Obtén tu Membresía</a>
                     </div>
                 </div>
             </div>

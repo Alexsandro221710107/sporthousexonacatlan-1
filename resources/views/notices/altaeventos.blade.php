@@ -27,7 +27,7 @@
         </div>
 
         <div class="form-group">
-          <label class="control-label col-md-3 col-sm-3 col-xs-12">Descripcion: </label>
+          <label class="control-label col-md-3 col-sm-3 col-xs-12">Descripción: </label>
             <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
               <input type="text" class="form-control has-feedback-left" id='descripcionev' name='descripcionev' placeholder="Escriba Descripcion del Evento">
               <span class="fa fa-navicon form-control-feedback left" aria-hidden="true"></span>

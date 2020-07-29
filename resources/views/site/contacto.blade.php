@@ -42,7 +42,7 @@
                                     <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre Completo">
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" class="form-control" id="email" name="email"placeholder="Dirección de correo electronico">
+                                    <input type="email" class="form-control" id="email" name="email"placeholder="Dirección de Correo Electrónico">
                                 </div>
                                 <div class="form-group">
                                     <input type="text" class="form-control" id="subject" name="subject" placeholder="Asunto">
@@ -65,7 +65,7 @@
 
     <div class="fitness-contact-info">
         <a href="index.html" class="contact-logo d-block mb-30"><img src="img/core-img/logo2.png" alt=""></a>
-        <h6> Niños Heroes 46, Xonacatlan de Vicencio, 52060 Xonacatlán, Méx.</h6>
+        <h6> Niños Héroes 46, Xonacatlán de Vicencio, 52060 Xonacatlán, Méx.</h6>
         <h6>01(719)1052399</h6>
         <h6>sporthousexonacatlan@gmail.com</h6>
     </div>

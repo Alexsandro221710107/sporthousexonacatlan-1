@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>SportHouse Xonacatlan</title>
+    <title>SportHouse Xonacatlán</title>
 
     <!-- Favicon -->
     <link rel="icon" href="admintemplate/sport-house.png" type="image/ico" />
@@ -68,14 +68,14 @@
                                     </li>
                                     <li><a href="sobrenosotros">Sobre Nosotros</a></li>
                                     <li>
-                                      <li><a>Contactános </a>
+                                      <li><a>Contáctanos </a>
                                        <ul class="dropdown">
                                             <li><a href="contacto">Contacto</a></li>
                                             <li><a href="agendarcita">Agendar Cita</a></li>
                                         </ul>
                                       </li>
                                     </li>
-                                    <li><a href="galeria">Galeria</a></li>
+                                    <li><a href="galeria">Galería</a></li>
                                     <li><a href="iniciarsesion" class="btn fitness-btn btn-2">Iniciar Sesión</a></li>
                                 </ul>
 
@@ -113,7 +113,7 @@
                             <div class="widget-title">
                                 <a><img src="{{ asset('sitetemplate/img/core-img/logo.jpg')}}" alt=""></a>
                             </div>
-                            <p class="mb-30">Más que un gimnasio, somos un club deportivo, ven aprende y diviertete !!!. El mejor ambiente, el mejor lugar , comodo y seguro  ven y vive la experiencia.</p>
+                            <p class="mb-30">Más que un gimnasio, somos un club deportivo, ¡Ven, aprende y diviertete!. El mejor ambiente, el mejor lugar , cómodo y seguro, ven y vive la experiencia.</p>
                             <!-- Social Info -->
                         </div>
                     </div>
@@ -132,7 +132,7 @@
                                 <div class="single-slide">
                                     <!-- Single Testimonial -->
                                     <div class="single-testimonial">
-                                        <p>Todo lo puedo en cristo que me fortalece</p>
+                                        <p>Todo lo puedo en Cristo que me fortalece</p>
                                         <span>(Fllipenses 4:13)</span>
                                     </div>
                                     <!-- Single Testimonial -->
@@ -141,7 +141,7 @@
                                 <div class="single-slide">
                                     <!-- Single Testimonial -->
                                     <div class="single-testimonial">
-                                        <p>Todo lo puedo en cristo que me fortalece</p>
+                                        <p>Todo lo puedo en Cristo que me fortalece</p>
                                         <span>(Fllipenses 4:13)</span>
                                     </div>
                                     <!-- Single Testimonial -->
@@ -150,7 +150,7 @@
                                 <div class="single-slide">
                                     <!-- Single Testimonial -->
                                     <div class="single-testimonial">
-                                        <p>Todo lo puedo en cristo que me fortalece</p>
+                                        <p>Todo lo puedo en Cristo que me fortalece</p>
                                         <span>(Fllipenses 4:13)</span>
                                     </div>
                                     <!-- Single Testimonial -->
@@ -172,8 +172,8 @@
                                     <li><a href="#">Clases de Gym</a></li>
                                     <li><a href="#">Clases de Box</a></li>
                                     <li><a href="#">Clases de Yoga</a></li>
-                                    <li><a href="#">Equipo de futbol 6</a></li>
-                                    <li><a href="#">Escuela de Natacion</a></li>
+                                    <li><a href="#">Equipo de Fútbol 6</a></li>
+                                    <li><a href="#">Escuela de Natación</a></li>
                                     <li><a href="#">Equipo de Basquetbol</a></li>
                                     <li><a href="#">Clases de Taekwondo</a></li>
                                     <li><a href="#">Clases de Ballet</a></li>
@@ -192,12 +192,12 @@
                             <!-- Single Contact -->
                             <div class="single-contact mb-30">
                                 <span>Dirección:</span>
-                                <p>Niños Heroes 46 <br>Xonacatlan de Vicencio, 52060 Xonacatlán, Méx.</p>
+                                <p>Niños Héroes 46 <br>Xonacatlán de Vicencio, 52060 Xonacatlán, Méx.</p>
                             </div>
 
                             <!-- Single Contact -->
                             <div class="single-contact mb-30">
-                                <span>Telefonos:</span>
+                                <span>Teléfonos:</span>
                                 <p>01(719)1052399</p>
                                 <br>
                                 <p>7221485404 ó 7225560930</p>

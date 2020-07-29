@@ -22,7 +22,7 @@
 	{{csrf_field()}}
   <div class="form-label-group">
     <input type="email" id="email" class="form-control" placeholder="Correo Electronico" autofocus name='email'>
-    <label for="email">Correo Electronico</label>
+    <label for="email">Correo Electrónico</label>
   </div>
 
   <button class="btn btn-lg btn-primary btn-block btn-login text-uppercase font-weight-bold mb-2" type="submit" value="restablecer">Restablecer</button>

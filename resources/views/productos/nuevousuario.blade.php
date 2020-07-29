@@ -33,7 +33,7 @@
                   <label></label>
                 </div>
                 <div class="form-group">
-                  <input type="email" id="email" class="form-control" placeholder="Correo Electronico" name='email'>
+                  <input type="email" id="email" class="form-control" placeholder="Correo Electrónico" name='email'>
                   <label></label>
                 </div>
                 <div class="form-group">

@@ -106,7 +106,7 @@
                       <li><a href="formularioEmpleados"><i class="fa fa-users"></i> Empleado </a></li>
                       <li><a href="formularioSocios"><i class="fa fa-users"></i> Socio </a></li>
                       <li><a href="formularioCasilleros"><i class="fa fa-building"></i> Asignar Casillero </a></li>
-                      <li><a href="formularioAsignaciones"><i class="fa fa-exchange"></i> Asignacion(Empleado) </a></li>
+                      <li><a href="formularioAsignaciones"><i class="fa fa-exchange"></i> Asignación(Empleado) </a></li>
                       <li><a href="formularioPagos"><i class="fa fa-money"></i> Pago </a></li>
                     </ul>
                   </li>
@@ -146,7 +146,7 @@
                   </li>
                   <li><a><i class="fa fa-ticket"></i> Promociones <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="altapromociones"><i class="fa fa-upload"></i> Subir Promocion </a></li>
+                      <li><a href="altapromociones"><i class="fa fa-upload"></i> Subir Promoción </a></li>
                       <li><a href="reportePromociones"><i class="fa fa-folder-open"></i> Consultar Promociones </a></li>
                     </ul>
                   </li>

@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="form-group">
-          <label class="control-label col-md-3 col-sm-3 col-xs-12">Descripcion: </label>
+          <label class="control-label col-md-3 col-sm-3 col-xs-12">Descripción: </label>
             <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
               <textarea class="form-control has-feedback-left" name="descripcion" rows="10" cols="30" placeholder="Agregue Una Descripcion del archivo"></textarea>
             </div>

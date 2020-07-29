@@ -24,7 +24,7 @@ else{
             <th>No. Publicidad</th>
             <th>Nombre</th>
             <th>Archivo</th>
-            <th>Descripcion</th>
+            <th>Descripción</th>
             <th></th>
             <th></th>
           </tr>

@@ -23,7 +23,7 @@ else{
           <tr>
             <th>No Evento</th>
             <th>Nombre</th>
-            <th>Descripcion</th>
+            <th>Descripción</th>
             <th>Evento</th>
             <th>Fecha</th>
             <th></th>

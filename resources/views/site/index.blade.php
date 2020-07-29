@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>SportHouse Xonacatlan</title>
+    <title>SportHouse Xonacatlán</title>
 
     <!-- Favicon -->
     <link rel="icon" href="sitetemplate/img/core-img/logo.jpg">
@@ -55,7 +55,7 @@
                             <div class="classynav">
                                 <ul>
                                     <li><a href="index">Inicio</a></li>
-                                    <li><a>Ver Mas </a>
+                                    <li><a>Ver Más </a>
                                        <ul class="dropdown">
                                             <li><a href="servicios">Servicios</a></li>
                                             <li><a href="sitePromociones">Promociones</a></li>
@@ -68,8 +68,8 @@
                                     </li>
                                     <li><a href="sobrenosotros">Sobre Nosotros</a></li>
                                     <li><a href="contacto">Contacto</a></li>
-                                    <li><a href="galeria">Galeria</a></li>
-                                    <li><a href="iniciarsesion" class="btn fitness-btn btn-2">Iniciar Sesion</a></li>
+                                    <li><a href="galeria">Galería</a></li>
+                                    <li><a href="iniciarsesion" class="btn fitness-btn btn-2">Iniciar Sesión</a></li>
                                 </ul>
 
                                 <!-- Call Button -->
@@ -123,7 +123,7 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12 col-lg-9">
                             <div class="hero-slides-content">
-                                <h2 data-animation="fadeInUp" data-delay="100ms">Mas que un gimanasio.</h2>
+                                <h2 data-animation="fadeInUp" data-delay="100ms">Más que un gimanasio.</h2>
                                 <p data-animation="fadeInUp" data-delay="400ms">Un estilo de vida.</p>
                             </div>
                         </div>
@@ -177,24 +177,24 @@
                         <div class="col-12 col-lg-6">
                             <div class="about-text">
                               <p>Misión</p>
-                                <p>contribuir a mejorar la salud y el bienestar de las personas, con un compromiso de gestión orientado a la mejora continua y la obtención de buenos resultados</p>
+                                <p>Contribuir a mejorar la salud y el bienestar de las personas, con un compromiso de gestión orientado a la mejora continua y la obtención de buenos resultados</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-6">
                             <div class="about-text">
                               <p>Visión</p>
-                                <p>Ser una empresa innovadora e integradora dentro del sector, formada por  un equipo de profesionales cualificados y altamente motivados</p>
+                                <p>Ser una empresa innovadora e integradora dentro del sector, formada por un equipo de profesionales cualificados y altamente motivados</p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-6">
                             <div class="about-text">
-                                <p>Más que un gimnasio, somos un club deportivo, ven aprende y diviertete !!!. El mejor ambiente, el mejor lugar , comodo y seguro  ven y vive la experiencia.</p>
+                                <p>Más que un gimnasio, somos un club deportivo, ¡Ven, aprende y diviertete!. El mejor ambiente, el mejor lugar , cómodo y seguro, ven y vive la experiencia.</p>
                             </div>
                         </div>
                         <!-- About Text -->
                         <div class="col-12 col-lg-6">
                             <div class="about-text">
-                                <p>Sin esfuerzo no hay recompensa, Club deportivo Sport House Xonacatlán!!!. El mejor lugar donde vives tu pasion al maximo.</p>
+                                <p>Sin esfuerzo no hay recompensa, ¡Club Deportivo SportHouse Xonacatlán!. El mejor lugar donde vives tu pasión al máximo.</p>
                             </div>
                         </div>
                         <!-- About Button Group -->
@@ -230,7 +230,7 @@
             <div class="row">
                 <div class="col-12 col-lg-3">
                     <div class="experts-text">
-                        <p>Excelentes compañias, ven y pregunta a nustros expertos, contamos con instructores certificados ven y vive la experiencia.</p>
+                        <p>Excelentes compañías, ven y pregunta a nustros expertos, contamos con instructores certificados, ven y vive la experiencia.</p>
                     </div>
                 </div>
                 <div class="col-12 col-lg-9">
@@ -241,8 +241,8 @@
                             <img src="{{ asset('sitetemplate/img/team-img/1.png')}}" alt="">
                             <!-- Team Members Info -->
                             <div class="team-members-info">
-                                <h3>Julia Garcia</h3>
-                                <h6>Entrenador Personal</h6>
+                                <h3>Julia García</h3>
+                                <h6>Entrenadora Personal</h6>
                             </div>
                         </div>
 
@@ -251,7 +251,7 @@
                             <img src="{{ asset('sitetemplate/img/team-img/2.png')}}" alt="">
                             <!-- Team Members Info -->
                             <div class="team-members-info">
-                                <h3>Miguel Gonzalez</h3>
+                                <h3>Miguel González</h3>
                                 <h6>Entrenador Personal</h6>
                             </div>
                         </div>
@@ -261,7 +261,7 @@
                             <img src="{{ asset('sitetemplate/img/team-img/3.png')}}" alt="">
                             <!-- Team Members Info -->
                             <div class="team-members-info">
-                                <h3>Javier Hernandez</h3>
+                                <h3>Javier Hernández</h3>
                                 <h6>Entrenador Personal</h6>
                             </div>
                         </div>
@@ -271,7 +271,7 @@
                             <img src="{{ asset('sitetemplate/img/team-img/4.png')}}" alt="">
                             <!-- Team Members Info -->
                             <div class="team-members-info">
-                                <h3>Cristina Lopez</h3>
+                                <h3>Cristina López</h3>
                                 <h6>Entrenador Fitness</h6>
                             </div>
                         </div>
@@ -298,7 +298,7 @@
                             </div>
                             <h4>Gym</h4>
                         </div>
-                        <p>Contamos con un gran número de actividades colectivas con las que tonificaras tu cuerpo, mejoraras tu resistencia física y fortaleceras tu musculatura.</p>
+                        <p>Contamos con un gran número de actividades colectivas con las que tonificarás tu cuerpo, mejorarás tu resistencia física y fortalecerás tu musculatura.</p>
                     </div>
                 </div>
 
@@ -338,9 +338,9 @@
                             <div class="course-icon d-flex align-items-center justify-content-center">
                                 <img src="{{ asset('sitetemplate/img/core-img/futbol.jpg')}}" alt="">
                             </div>
-                            <h4>Futbol 6</h4>
+                            <h4>Fútbol 6</h4>
                         </div>
-                        <p>Red de escuelas club deportivo Toluca, te esperamos para que formes parte de un gran equipo.</p>
+                        <p>Red de Escuela Diablos Toluca - Xonacatlán, te esperamos para que formes parte de un gran equipo.</p>
                     </div>
                 </div>
 
@@ -381,7 +381,7 @@
                             </div>
                             <h4>Basquetbol</h4>
                         </div>
-                        <p>Ven y unete a nuestro equipo de basquetbol, ven y vive la experiencia.</p>
+                        <p>Ven y únete a nuestro equipo de basquetbol, ven y vive la experiencia.</p>
                     </div>
                 </div>
 
@@ -392,9 +392,9 @@
                             <div class="course-icon d-flex align-items-center justify-content-center">
                                 <img src="{{ asset('sitetemplate/img/core-img/salon.jpg')}}" alt="">
                             </div>
-                            <h4>Salon de eventos</h4>
+                            <h4>Salón de Eventos</h4>
                         </div>
-                        <p>Nuestro salon es el mejor para cualquier evento que tengas ven y pasatela increible rodeado de tus seres queridos.</p>
+                        <p>Nuestro salón es el mejor para cualquier evento que tengas, ven y pasatela increíble rodeado de tus seres queridos.</p>
                     </div>
                 </div>
 
@@ -432,7 +432,7 @@
                             <ul class="price-data">
                                 <li><i class="fa fa-circle" aria-hidden="true"></i> Espacio creado pensando en ti</li>
                                 <li><i class="fa fa-circle" aria-hidden="true"></i> Ven y conoce nuestra área TRX</li>
-                                <li><i class="fa fa-circle" aria-hidden="true"></i> Una diciplina mas para nuestros socios y amigos</li>
+                                <li><i class="fa fa-circle" aria-hidden="true"></i> Una diciplina más para nuestros socios y amigos</li>
                             </ul>
                             <!-- btn -->
                             <!--<a class="fitness-btn mt-30"><center>Inscribete</center></a>-->
@@ -447,12 +447,12 @@
                         <div class="price-table-content">
                             <!-- price -->
 
-                            <h5>Futbol</h5>
+                            <h5>Fútbol</h5>
                             <!-- Price Data -->
                             <ul class="price-data">
                                 <li><i class="fa fa-circle" aria-hidden="true"></i>Somos más que un Gimnasio</li>
                                 <li><i class="fa fa-circle" aria-hidden="true"></i>Ven, entrena y diviertete</li>
-                                <li><i class="fa fa-circle" aria-hidden="true"></i>Red de escuelas club deportivo Toluca</li>
+                                <li><i class="fa fa-circle" aria-hidden="true"></i>Red de Escuela Diablos Toluca - Xonacatlán</li>
                             </ul>
                             <!-- btn -->
                             <!--<a class="fitness-btn mt-30"><center>Inscribete</center></a>-->
@@ -469,9 +469,9 @@
                             <h5>Natación</h5>
                             <!-- Price Data -->
                             <ul class="price-data">
-                                <li><i class="fa fa-circle" aria-hidden="true"></i>Escuela de natacion</li>
+                                <li><i class="fa fa-circle" aria-hidden="true"></i>Escuela de Natación</li>
                                 <li><i class="fa fa-circle" aria-hidden="true"></i>No te lo puedes perder</li>
-                                <li><i class="fa fa-circle" aria-hidden="true"></i>Ven disfruta y vive la mejor experiencia</li>
+                                <li><i class="fa fa-circle" aria-hidden="true"></i>Ven, disfruta y vive la mejor experiencia</li>
                             </ul>
                             <!-- btn -->
                             <!--<a class="fitness-btn mt-30"><center>Inscribete</center></a>-->
@@ -493,17 +493,17 @@
                 <div class="col-12 col-lg-12">
                     <div class="fitness-working-hours mb-100">
                         <div class="section-heading">
-                            <h6>SportHouse Xonacatlan</h6>
+                            <h6>SportHouse Xonacatlán</h6>
                             <h2>Horario</h2>
                         </div>
                         <!-- Working Hours -->
                         <ul class="working-hours">
                             <li><span>Lunes</span> <span>07:00 am - 10:00 pm</span></li>
                             <li><span>Martes</span> <span>07:00 am - 10:00 pm</span></li>
-                            <li><span>Miercoles</span> <span>07:00 am - 10:00 pm</span></li>
+                            <li><span>Miércoles</span> <span>07:00 am - 10:00 pm</span></li>
                             <li><span>Jueves</span> <span>07:00 am - 10:00 pm</span></li>
                             <li><span>Viernes</span> <span>07:00 am - 10:00 pm</span></li>
-                            <li><span>Sabado</span> <span>09:00 am - 02:00 pm</span></li>
+                            <li><span>Sábado</span> <span>09:00 am - 02:00 pm</span></li>
                             <li><span>Domingo</span> <span>Cerrado</span></li>
                         </ul>
                     </div>
@@ -529,7 +529,7 @@
                             <div class="widget-title">
                                 <a href="#"><img src="{{ asset('sitetemplate/img/core-img/logo.jpg')}}" alt=""></a>
                             </div>
-                            <p class="mb-30">Más que un gimnasio, somos un club deportivo, ven aprende y diviertete !!!. El mejor ambiente, el mejor lugar , comodo y seguro  ven y vive la experiencia.</p>
+                            <p class="mb-30">Más que un gimnasio, somos un club deportivo, ¡Ven, aprende y diviertete!. El mejor ambiente, el mejor lugar , cómodo y seguro, ven y vive la experiencia.</p>
                             <!-- Social Info -->
                         </div>
                     </div>
@@ -548,7 +548,7 @@
                                 <div class="single-slide">
                                     <!-- Single Testimonial -->
                                     <div class="single-testimonial">
-                                        <p>Todo lo puedo en cristo que me fortalece</p>
+                                        <p>Todo lo puedo en Cristo que me fortalece</p>
                                         <span>(Fllipenses 4:13)</span>
                                     </div>
                                     <!-- Single Testimonial -->
@@ -557,7 +557,7 @@
                                 <div class="single-slide">
                                     <!-- Single Testimonial -->
                                     <div class="single-testimonial">
-                                        <p>Todo lo puedo en cristo que me fortalece</p>
+                                        <p>Todo lo puedo en Cristo que me fortalece</p>
                                         <span>(Fllipenses 4:13)</span>
                                     </div>
                                     <!-- Single Testimonial -->
@@ -566,7 +566,7 @@
                                 <div class="single-slide">
                                     <!-- Single Testimonial -->
                                     <div class="single-testimonial">
-                                        <p>Todo lo puedo en cristo que me fortalece</p>
+                                        <p>Todo lo puedo en Cristo que me fortalece</p>
                                         <span>(Fllipenses 4:13)</span>
                                     </div>
                                     <!-- Single Testimonial -->
@@ -588,8 +588,8 @@
                                     <li><a href="#">Clases de Gym</a></li>
                                     <li><a href="#">Clases de Box</a></li>
                                     <li><a href="#">Clases de Yoga</a></li>
-                                    <li><a href="#">Equipo de futbol 6</a></li>
-                                    <li><a href="#">Escuela de Natacion</a></li>
+                                    <li><a href="#">Equipo de Fútbol 6</a></li>
+                                    <li><a href="#">Escuela de Natación</a></li>
                                     <li><a href="#">Equipo de Basquetbol</a></li>
                                     <li><a href="#">Clases de Taekwondo</a></li>
                                     <li><a href="#">Clases de Ballet</a></li>
@@ -608,12 +608,12 @@
                             <!-- Single Contact -->
                             <div class="single-contact mb-30">
                                 <span>Dirección:</span>
-                                <p>Niños Heroes 46 <br>Xonacatlan de Vicencio, 52060 Xonacatlán, Méx.</p>
+                                <p>Niños Héroes 46 <br>Xonacatlán de Vicencio, 52060 Xonacatlán, Méx.</p>
                             </div>
 
                             <!-- Single Contact -->
                             <div class="single-contact mb-30">
-                                <span>Telefonos:</span>
+                                <span>Teléfonos:</span>
                                 <p>01(719)1052399</p>
                                 <p>7221485404 ó 7225560930</p>
                                 <span>Email:</span>

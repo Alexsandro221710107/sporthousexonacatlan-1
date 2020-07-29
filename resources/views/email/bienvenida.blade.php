@@ -31,7 +31,7 @@
                                                  <td class="m_7723093387119097625padless" style="color:#3f4652;line-height:23px;padding-left:28px;padding-right:28px;font-size:15px;font-family:'Open Sans',sans-serif;font-weight:100;text-align:justify"><span style="font-family:'Open Sans',sans-serif">
                                                     ¡Hola <span style="font-weight:bold">{{$nombre}} {{$apellidopu}} {{$apellidomu}}</span>! Te damos la Bienvenida a SportHouse Xonacatlán
                                                      <br>
-                                                     <span style="font-weight:bold"><center><span style="font-size:24px">Correo Electronico: {{$email}}</span></center></span>
+                                                     <span style="font-weight:bold"><center><span style="font-size:24px">Correo Electrónico: {{$email}}</span></center></span>
                                                      <span style="font-weight:bold"><center><span style="font-size:24px">Contraseña: {{$contraseña}}</span></center></span>
                                                      <span style="font-weight:bold"><center><span style="font-size:24px">Fecha de Registro: {{$fecha}}</span></center></span>
                                                      <span style="font-weight:bold"><center><span style="font-size:24px">Hora de Registro: {{$reloj}}</span></center></span>
@@ -45,7 +45,7 @@
                                              <tr>
                                                  <td align="center"><a href="http://localhost/sporthouse/public/iniciarsesion" target="_blank" data-saferedirecturl="http://localhost/sporthouse/public/iniciarsesion"></a><table style="text-align:center" height="43" cellspacing="0" cellpadding="0"><tbody><tr>
                                                      <td class="m_7723093387119097625thumb" style="border-bottom:3px solid #374A5B;border-radius:5px;padding-left:2.8em;padding-right:2.8em;background:#374A5B;background-repeat:repeat-x" height="43" bgcolor="#8fca00" align="center"><span style="display:block;font-size:15px;font-weight:600;font-family:'Open Sans',sans-serif"><a class="m_7723093387119097625smallfont" "http://localhost/sporthouse/public/iniciarsesion"" style="display:block;height:43px;overflow:hidden;color:#ffffff;text-decoration:none;line-height:43px" target="_blank" data-saferedirecturl="http://localhost/sporthouse/public/iniciarsesion">
-                                                         Iniciar Sesion →
+                                                         Iniciar Sesión →
                                                      </a></span></td>
                                                  </tr></tbody></table>
                                              </td>

@@ -21,7 +21,7 @@
                 {{csrf_field()}}
                 <div class="form-label-group">
                   <input type="email" id="inputEmail" class="form-control" placeholder="Correo Electronico" autofocus name='email'>
-                  <label for="inputEmail">Correo Electronico</label>
+                  <label for="inputEmail">Correo Electrónico</label>
                 </div>
 
                 <div class="form-label-group">

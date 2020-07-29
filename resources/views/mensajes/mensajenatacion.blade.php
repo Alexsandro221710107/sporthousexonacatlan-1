@@ -29,7 +29,7 @@
                                              </tr>
                                              <tr>
                                                  <td class="m_7723093387119097625padless" style="color:#3f4652;line-height:23px;padding-left:28px;padding-right:28px;font-size:15px;font-family:'Open Sans',sans-serif;font-weight:100;text-align:justify"><span style="font-family:'Open Sans',sans-serif">
-                                                    ¡Hola <span style="font-weight:bold">{{$datos['nombre']}}</span>! Para nosotros, es un gusto poder brindarte la informacion que necesitas desde el lugar donde te encuentres,
+                                                    ¡Hola <span style="font-weight:bold">{{$datos['nombre']}}</span>! Para nosotros, es un gusto poder brindarte la información que necesitas desde el lugar donde te encuentres,
                                                      por ello, esta es la información acerca del Curso de Natación:
                                                      <br>
                                                      <span style="font-weight:bold"><center><span style="font-size:24px"><img src="https://drive.google.com/uc?export=view&id=16yrgodl-8nFJYmZZK5p-YyBVuFB_Nuuv"></span></center></span>

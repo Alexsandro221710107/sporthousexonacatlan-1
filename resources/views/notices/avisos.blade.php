@@ -24,7 +24,7 @@ else{
             <th>No. Aviso</th>
             <th>Aviso</th>
             <th>Nombre</th>
-            <th>Descripcion</th>
+            <th>Descripción</th>
             <th></th>
             <th></th>
           </tr>

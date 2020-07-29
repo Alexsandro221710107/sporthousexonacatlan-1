@@ -41,24 +41,24 @@
                     <div class="col-12 col-lg-6">
                         <div class="about-text">
                           <p>Misión</p>
-                            <p>contribuir a mejorar la salud y el bienestar de las personas, con un compromiso de gestión orientado a la mejora continua y la obtención de buenos resultados</p>
+                            <p>Contribuir a mejorar la salud y el bienestar de las personas, con un compromiso de gestión orientado a la mejora continua y la obtención de buenos resultados</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
                         <div class="about-text">
                           <p>Visión</p>
-                            <p>Ser una empresa innovadora e integradora dentro del sector, formada por  un equipo de profesionales cualificados y altamente motivados</p>
+                            <p>Ser una empresa innovadora e integradora dentro del sector, formada por un equipo de profesionales cualificados y altamente motivados</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
                         <div class="about-text">
-                            <p>Más que un gimnasio, somos un club deportivo, ven aprende y diviertete !!!. El mejor ambiente, el mejor lugar , comodo y seguro  ven y vive la experiencia.</p>
+                            <p>Más que un gimnasio, somos un club deportivo, ¡Ven, aprende y diviertete!. El mejor ambiente, el mejor lugar , cómodo y seguro, ven y vive la experiencia.</p>
                         </div>
                     </div>
                     <!-- About Text -->
                     <div class="col-12 col-lg-6">
                         <div class="about-text">
-                            <p>Sin esfuerzo no hay recompensa, Club deportivo Sport House Xonacatlán!!!. El mejor lugar donde vives tu pasion al maximo.</p>
+                            <p>Sin esfuerzo no hay recompensa, ¡Club Deportivo SportHouse Xonacatlán!. El mejor lugar donde vives tu pasión al máximo.</p>
                         </div>
                     </div>
                     <!-- About Button Group -->

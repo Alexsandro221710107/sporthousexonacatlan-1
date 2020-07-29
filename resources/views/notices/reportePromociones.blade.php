@@ -21,9 +21,9 @@ else{
       <table id="datatable-buttons" class="table table-striped table-bordered" style="width:100%">
         <thead>
           <tr>
-            <th>Id  Promocion</th>
-            <th>Promocion</th>
-            <th>descripcion</th>
+            <th>Id  Promoción</th>
+            <th>Promoción</th>
+            <th>descripción</th>
             <th></th>
             <th></th>
 
